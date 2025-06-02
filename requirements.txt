@@ -1,0 +1,5 @@
+python-telegram-bot
+pandas
+gspread
+google-auth-oauthlib
+gspread-dataframe
